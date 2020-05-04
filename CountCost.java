@@ -7,7 +7,7 @@ public class CountCost {
    static int min;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       int[] costs= {600,800,150,700};
+       int[] costs= {300,400,600,700};
        int totalminCost = 0;
        boolean flag=false;
        ArrayList<Integer> reachedtemple=new ArrayList<Integer>();
