@@ -2,7 +2,7 @@ import java.util.*;
 
 class Costs
 { 
-	
+	// comment modified
 	static int minimumCost(int costs[], int numberofpersons) 
 	{ 
 	
