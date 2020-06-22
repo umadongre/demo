@@ -2,7 +2,7 @@ import java.util.*;
 
 class Costs
 { 
-	//function to calculate cost
+	// comment modified
 	static int minimumCost(int costs[], int numberofpersons) 
 	{ 
 	
